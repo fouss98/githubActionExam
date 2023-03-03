@@ -1,0 +1,14 @@
+
+w
+java:S1192("\Define a constant instead of duplicating this literal "Access-Control-Allow-Origin" 3 times.(“½­èüÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(üÅÚL
+S
+java:S1128"6Remove this unused import 'com.fouss.api.entity.User'.(ŠÌºÔ8‰Û¡·ê0
+X
+java:S1128";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ8‰Û¡·ê0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ŠÛ¡·ê0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ŠÛ¡·ê0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8ŠÛ¡·ê0

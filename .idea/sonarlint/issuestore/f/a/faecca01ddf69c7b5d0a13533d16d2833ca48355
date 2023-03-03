@@ -1,0 +1,8 @@
+
+Q	java:S125	"<This block of commented-out lines of code should be removed.(¼Çá¸
+R
+java:S1128"7Remove this unused import 'com.fouss.api.entity.Offre'.(¸Ğ¿Ğüÿÿÿÿ
+h
+java:S1128"RRemove this unused import 'org.springframework.data.jpa.repository.JpaRepository'.(À™‡“
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
