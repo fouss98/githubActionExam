@@ -55,8 +55,5 @@ j
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-:
-
-Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
 e
 5src/main/java/com/fouss/api/repository/offreRepo.java,f\a\faecca01ddf69c7b5d0a13533d16d2833ca48355
